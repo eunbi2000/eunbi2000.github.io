@@ -1,0 +1,38 @@
+body {
+    color: white;
+    text-decoration: none;
+    font-family: 'Indie Flower';
+    background-image: url("http://trbd.org/rcny/wp-content/uploads/2014/05/cifry-voronka-abstrakciya-36184da.jpg");
+}
+
+h1 {
+    color:white;
+    text-align:center;
+    font-size: 60px;
+}
+h2 {
+    color:lightgrey;
+    text-align:center;
+    font-size: 40px;
+}
+.yo {
+    color:lightyellow;
+}
+.hi {
+    color:black;
+}
+h3 {
+    color: yellow;
+    text-align:center;
+    font-size: 30px;
+}
+img {
+    display: block;
+    margin: auto;
+}
+footer {
+    text-align: right;
+}
+.lol {
+    text-align: right;
+}
